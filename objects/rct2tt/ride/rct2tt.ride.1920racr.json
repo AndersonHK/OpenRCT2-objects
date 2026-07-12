@@ -182,6 +182,7 @@
             "numSeats": 1,
             "numSeatRows": 1,
             "frictionSoundId": 21,
+            "frictionSoundGainDb": -6.0,
             "doubleSoundFrequency": 1,
             "poweredAcceleration": 35,
             "poweredMaxSpeed": 40,
