@@ -22,3 +22,10 @@ Before migration, 419 untracked packed release artifacts were verified against o
 - Decision: Adopt Catalan labels; omit accidental reintroduction of themend in the English tiger description.
 - Validation: inspected source delta; JSON parsing, all four kart gains, exact-one ancestry and whitespace checks passed. Exporter build remains pending until O004.
 - Receipt: unique `Upstream-Commit: a47f48275c54202c512f2222a23cfcb3644dde22` trailer in first-parent history.
+
+## O003 — Record English typo correction already preserved
+
+- Source: `cfdbe55f83f703484ed467246db98bff30b3c9ca`. Remaining: 2 → 1.
+- Decision: No product change: O002 deliberately retained the corrected English spelling.
+- Validation: inspected source delta; JSON parsing, all four kart gains, exact-one ancestry and whitespace checks passed. Exporter build remains pending until O004.
+- Receipt: unique `Upstream-Commit: cfdbe55f83f703484ed467246db98bff30b3c9ca` trailer in first-parent history.
