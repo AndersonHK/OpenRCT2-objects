@@ -690,7 +690,8 @@
             "ru-RU": "Вращающиеся машины",
             "de-DE": "Rotierende Wagen",
             "gl-ES": "Coches xiratorios",
-            "pl-PL": "Wirujące wagoniki"
+            "pl-PL": "Wirujące wagoniki",
+            "ca-ES": "Tasses giratòries"
         },
         "description": {
             "en-GB": "Circular roller coaster cars which are free to spin around their central axis.",
@@ -703,7 +704,8 @@
             "ru-RU": "Круглые машины для аттракционов, вращающиеся вокруг своей центральной оси.",
             "de-DE": "Runde Achterbahnwagen, welche sich frei um ihre Mittelachse drehen können.",
             "gl-ES": "Coches circulares de montaña rusa que poden xirar libremente arredor do seu eixo central.",
-            "pl-PL": "Okrągłe wagoniki kolejki górskiej, które mogą swobodnie obracać się wokół własnej osi."
+            "pl-PL": "Okrągłe wagoniki kolejki górskiej, które mogą swobodnie obracać się wokół własnej osi.",
+            "ca-ES": "Cotxes rodons de muntanya russa que poden girar de manera lliure al voltant del seu eix central."
         },
         "capacity": {
             "en-GB": "4 passengers per car",

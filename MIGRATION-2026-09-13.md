@@ -15,3 +15,10 @@ Before migration, 419 untracked packed release artifacts were verified against o
 - Decision: Text only; keep vehicle behavior and fork kart gains.
 - Validation: inspected source delta; JSON parsing, all four kart gains, exact-one ancestry and whitespace checks passed. Exporter build remains pending until O004.
 - Receipt: unique `Upstream-Commit: b429d74251264728470119fc119b32f02255aa7c` trailer in first-parent history.
+
+## O002 — Add Catalan spinning-car translations
+
+- Source: `a47f48275c54202c512f2222a23cfcb3644dde22`. Remaining: 3 → 2.
+- Decision: Adopt Catalan labels; omit accidental reintroduction of themend in the English tiger description.
+- Validation: inspected source delta; JSON parsing, all four kart gains, exact-one ancestry and whitespace checks passed. Exporter build remains pending until O004.
+- Receipt: unique `Upstream-Commit: a47f48275c54202c512f2222a23cfcb3644dde22` trailer in first-parent history.
