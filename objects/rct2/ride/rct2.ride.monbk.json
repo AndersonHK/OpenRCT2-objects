@@ -40,6 +40,7 @@
             "mass": 150,
             "tabOffset": -4,
             "numSeats": 1,
+            "boardingDuration": 2.0,
             "animation": 8,
             "numSeatRows": 1,
             "poweredAcceleration": 40,

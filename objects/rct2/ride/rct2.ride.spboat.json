@@ -49,6 +49,7 @@
                 "mass": 1250,
                 "tabOffset": -4,
                 "numSeats": 16,
+                "boardingDuration": 2.0,
                 "numSeatRows": 8,
                 "logFlumeReverserVehicleType": 1,
                 "soundRange": 0,

@@ -65,6 +65,7 @@
             "spacing": 139456,
             "mass": 3000,
             "numSeats": 32,
+            "boardingDuration": 1.5,
             "spriteWidth": 87,
             "spriteHeightNegative": 170,
             "spriteHeightPositive": 37,

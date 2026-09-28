@@ -42,6 +42,7 @@
             "spacing": 296344,
             "mass": 1400,
             "numSeats": 6,
+            "boardingDuration": 2.0,
             "numSeatRows": 3,
             "frictionSoundId": 2,
             "soundRange": 0,

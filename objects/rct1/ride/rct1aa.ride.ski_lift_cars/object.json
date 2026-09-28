@@ -46,6 +46,7 @@
             "mass": 270,
             "tabOffset": -22,
             "numSeats": 2,
+            "boardingDuration": 1.0,
             "numSeatRows": 1,
             "spriteGroups": {
                 "slopeFlat": 16,
