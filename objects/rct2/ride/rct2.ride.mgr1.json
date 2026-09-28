@@ -53,6 +53,7 @@
             "mass": 200,
             "tabOffset": -24,
             "numSeats": 16,
+            "boardingDuration": 1.5,
             "spriteWidth": 55,
             "spriteHeightNegative": 72,
             "spriteHeightPositive": 28,

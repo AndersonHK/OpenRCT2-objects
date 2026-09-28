@@ -48,6 +48,7 @@
                 "spacing": 139456,
                 "mass": 270,
                 "numSeats": 1,
+                "boardingDuration": 1.5,
                 "numSeatRows": 1,
                 "poweredAcceleration": 110,
                 "poweredMaxSpeed": 9,

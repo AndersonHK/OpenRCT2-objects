@@ -47,6 +47,7 @@
                 "spacing": 87160,
                 "mass": 300,
                 "numSeats": 2,
+                "boardingDuration": 1.5,
                 "numSeatRows": 1,
                 "soundRange": 0,
                 "poweredAcceleration": 80,

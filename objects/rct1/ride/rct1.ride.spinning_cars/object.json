@@ -55,6 +55,7 @@
             "spacing": 209184,
             "mass": 600,
             "numSeats": 4,
+            "boardingDuration": 1.5,
             "numSeatRows": 2,
             "spinningInertia": 7,
             "spinningFriction": 6,

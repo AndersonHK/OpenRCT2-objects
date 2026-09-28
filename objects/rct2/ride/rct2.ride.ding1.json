@@ -47,6 +47,7 @@
             "mass": 300,
             "tabOffset": -4,
             "numSeats": 2,
+            "boardingDuration": 2.0,
             "numSeatRows": 1,
             "frictionSoundId": 32,
             "soundRange": 0,

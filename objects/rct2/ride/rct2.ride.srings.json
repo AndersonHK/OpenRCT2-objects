@@ -50,6 +50,7 @@
             "spacing": 139456,
             "mass": 1000,
             "numSeats": 1,
+            "boardingDuration": 3.0,
             "spriteWidth": 55,
             "spriteHeightNegative": 48,
             "spriteHeightPositive": 28,

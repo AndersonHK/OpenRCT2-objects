@@ -49,6 +49,7 @@
             "mass": 140,
             "tabOffset": -2,
             "numSeats": 2,
+            "boardingDuration": 2.0,
             "numSeatRows": 1,
             "poweredAcceleration": 220,
             "poweredMaxSpeed": 9,

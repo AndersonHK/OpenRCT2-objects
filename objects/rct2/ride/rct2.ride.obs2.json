@@ -32,6 +32,7 @@
             "mass": 2500,
             "tabOffset": 7,
             "numSeats": 32,
+            "boardingDuration": 1.0,
             "seatsInPairs": false,
             "spriteWidth": 32,
             "spriteHeightNegative": 63,

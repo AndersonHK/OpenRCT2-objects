@@ -28,6 +28,7 @@
             "spacing": 278912,
             "mass": 180,
             "numSeats": 2,
+            "boardingDuration": 2.0,
             "animation": 3,
             "numSeatRows": 6,
             "poweredAcceleration": 8,
